@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">A passionate Full Stack|frontend|backend developer from Peru</h3>
+<h1 align="center">Hola 👋, Soy Alex</h1>
+<h3 align="center">Un apasionado desarrollador Full Stack|frontend|backend de Perú</h3>
 
 - 🌱 Actualmente estoy aprendiendo **Go**
 
